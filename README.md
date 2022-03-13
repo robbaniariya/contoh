@@ -1,0 +1,2 @@
+# contoh
+for bangkit
